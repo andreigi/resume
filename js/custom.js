@@ -111,7 +111,7 @@ jQuery(document).ready(function(){
 	$contactform.submit(function(){
 		$.ajax({
 		   type: "POST",
-		   url: "php/contact.php",
+		   url: "//flipmail.co/api/Dqt8m1mux4lyreVPjNjF",
 		   data: $(this).serialize(),
 		   success: function(msg)
 		   {
