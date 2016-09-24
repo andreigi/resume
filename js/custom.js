@@ -105,7 +105,7 @@ jQuery(document).ready(function(){
 	/* ---------------------------------------------------------------------- */
 	
 	// Needed variables
-	var $contactform 	= $('#contactform'),
+/*	var $contactform 	= $('#contactform'),
 		$success		= 'Your message has been sent. Thank you!';
 		
 	$contactform.submit(function(){
@@ -128,7 +128,7 @@ jQuery(document).ready(function(){
 			}
 		 });
 		return false;
-	});	
+	});	*/
 	/* ---------------------------------------------------------------------- */
 	/*	Google Maps
 	/* ---------------------------------------------------------------------- */
